@@ -34,22 +34,6 @@ This project implements a flower classification system that can identify the fol
 
 The project uses the "flowers-classification dataset from Kaggle (seanscully29/flowers-classification). The dataset is automatically downloaded and organized into training and testing sets with a 65/35 split.
 
-## Dataset Structure
-
-flower_species_dataset/
-├── training/
-│   ├── black_eyed_susan/
-│   ├── calendula/
-│   ├── california_poppy/
-│   ├── coreopsis/
-│   └── iris/
-└── testing/
-    ├── black_eyed_susan/
-    ├── calendula/
-    ├── california_poppy/
-    ├── coreopsis/
-    └── iris/
-
 ## Model Architecture
 
 The CNN model consists of:
