@@ -1,1 +1,3 @@
-# aiie2025-Project-1
+# Flower Classification Project - Team 2
+
+## Overview
