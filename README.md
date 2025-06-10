@@ -80,7 +80,7 @@ The model is trained for 15 epochs with the following configuration:
 * The 65/35 train/test split ensures good model evaluation
 
 ## Authored by:
-Zender Aurelien-Nikolai, Jammie-Ann Suelina, Sean Scully
+Zender Aurelien-Nikolai, Jammie-Ann Matthias, Sean Scully
 
 # License
 * CC0-1.0 Creative Commons
