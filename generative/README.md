@@ -1,5 +1,5 @@
 # Gemini Real-Time Translator - Team 2  
-A multimodal translator using Google Gemini's generative models for real-time translation in four modes: text-to-text, text-to-speech, speech-to-text, and speech-to-speech. This project leverages Gemini's language understanding and speech synthesis capabilities to enable seamless communication across languages.
+A multimodal translator using Google Gemini's generative models for real-time translation in four modes: text-to-text, text-to-speech, speech-to-text, and speech-to-speech.
 
 ---
 
