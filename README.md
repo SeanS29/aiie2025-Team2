@@ -32,23 +32,7 @@ This project implements a flower classification system that can identify the fol
 
 ## Dataset
 
-The project uses the "flowers-classification dataset from Kaggle (seanscully29/flowers-classification). The dataset is automatically downloaded and organized into training and testing sets with a 65/35 split.
-
-## Dataset Structure
-
-flower_species_dataset/
-├── training/
-│   ├── black_eyed_susan/
-│   ├── calendula/
-│   ├── california_poppy/
-│   ├── coreopsis/
-│   └── iris/
-└── testing/
-    ├── black_eyed_susan/
-    ├── calendula/
-    ├── california_poppy/
-    ├── coreopsis/
-    └── iris/
+The project uses the "flowers-classification" dataset from Kaggle (seanscully29/flowers-classification). The dataset is automatically downloaded and organized into training and testing sets with a 65/35 split.
 
 ## Model Architecture
 
@@ -57,7 +41,7 @@ The CNN model consists of:
 * **Convolutional Layers**: 4 Conv2D layers (32, 64, 128, 256 filters)
 * **Pooling Layers**: MaxPooling2D after each convolutional layer
 * **Dense Layers**: 512-unit fully connected layer + 5-unit output layer
-* **Activation**: ReLU for hidden layers, SoftMax for output
+* **Activation**: ReLU for hidden layers, Softmax for output
 * **Input Shape**: 150x150x3 (RGB images)
 
 ## Usage
@@ -79,7 +63,7 @@ The model is trained for 15 epochs with the following configuration:
 
 ## Getting Started
 
-1. **Environment Setup**:Ensure you have all required packages installed
+1. **Environment Setup**: Ensure you have all required packages installed
 2. **Run the Script**: Execute the Python file to automatically:
 * Download the dataset
 * Organize the data
@@ -98,4 +82,5 @@ The model is trained for 15 epochs with the following configuration:
 ## Authored by:
 Zender Aurelien-Nikolai, Jammie-Ann Suelina, Sean Scully
 
+# License
 * CC0-1.0 Creative Commons
